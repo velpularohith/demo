@@ -1,0 +1,5 @@
+git init (initialize)
+git add -A (Add all files in folder)
+git commit -m 'Added my project' (save and conform)
+git remote add origin git@github.com:sammy/my-new-project.git (repository location)
+git push -u -f origin main  (push to git)
